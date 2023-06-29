@@ -1,0 +1,129 @@
+body {
+    font-family: Arial,sans-serif;
+    margin: 0;
+    background: rgb(232,232,232);
+background: linear-gradient(0deg, rgba(232,232,232,1) 0%, rgba(98,125,62,1) 100%);
+   
+    
+}
+header h1 {
+   color:black;
+    text-align:left;
+    padding-left:100px;
+}
+
+
+img{
+    width: 60px;
+    float:left;
+    padding-left:20px;
+  
+}
+.lower{
+    font-size: 62.5%;
+}
+.homey{
+    text-align:initial;
+    padding:200px;
+    font-size:55px;
+    background-image:url(img/1856233.jpg);
+    object-fit:fill;
+    background-repeat:no-repeat;
+    color: #ADFF2F;
+    background-size: cover;
+       
+}
+.serbisyo{
+    text-align: center;
+    font-size:x-large;
+    
+}
+.car-tune-ups{
+  font-size: x-large;
+  
+}
+
+
+.fixed{
+    position:fixed;
+    width:100%;
+    
+}
+.div-nav{
+    background: rgb(64,64,64);
+background: linear-gradient(0deg, rgba(64,64,64,1) 0%, rgba(98,125,62,1) 100%);
+    padding:20px;
+
+    
+    
+}
+.tungkol-satin{
+    padding-bottom:100px;
+    font-size:large;
+}
+h1 {
+    margin: 0;
+    text-align:center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align:right;
+}
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+section {
+    padding-top:100px;
+    padding-left: 50px;;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+}
+
+.contacts {
+    padding-bottom: 100px;
+}
+
+.proj {
+    color: black;
+    background-color: #ADFF2F;
+    border: none;
+    padding: 3px 5px;
+    text-align: center;
+    font-size: 30px;
+    margin: 4px 2px;
+    transition: .50s;
+    border-radius: 5px;
+}
+
+.proj:hover {
+    color:#ADFF2F;
+    background-color:#333
+}
+
+.navlist {
+    background-color: #ADFF2F;
+    border: none;
+    color: black;
+    padding: 3px 5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: .50s;
+    border-radius: 6px;
+}
+.navlist:hover {
+    color:#ADFF2F;
+    background-color:#333
+    
+}
